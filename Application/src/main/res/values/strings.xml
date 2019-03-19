@@ -14,7 +14,12 @@
  limitations under the License.
 -->
 <resources>
+    <string name="to_picture">Picture Mode</string>
+    <string name="to_video">Video Mode</string>
     <string name="picture">Picture</string>
+    <string name="record">Record</string>
+    <string name="stop">Stop</string>
+    <string name="permission_request">This sample needs permission for camera and audio recording.</string>
     <string name="description_info">Info</string>
     <string name="request_permission">This sample needs camera permission.</string>
     <string name="camera_error">This device doesn\'t support Camera2 API.</string>
